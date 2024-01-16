@@ -4,6 +4,7 @@
 </div>
 <!--Header Name-->
 <h1 align="center"><b>Hi , I'm  sumangal karan </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=420&lines=A+software+engineer+with+true+passion)](https://git.io/typing-svg)
 
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ sumangal! 
 *Digital Craftsman (Developer / Programmer)*
