@@ -14,8 +14,8 @@
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Kiran1689).
-- ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/dev_kiran).
+- 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Sumangal44).
+- ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/sumangal44).
 - ❤ Contributing to Open Source.
 - 💻 Visit my [Portfolio](https://kiran1689.github.io) for more details about me.
     <!--End Intro-->
