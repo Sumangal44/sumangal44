@@ -8,7 +8,7 @@
 <br />
 
 <!--Start Intro-->
-<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Javascript, HTML,CSS ,Bootstrap   . </p>
+<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, Javascript, HTML , CSS ,Bootstrap and React.js   . </p>
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
