@@ -17,7 +17,7 @@
 - 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Sumangal44).
 - ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/sumangal44).
 - ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://kiran1689.github.io) for more details about me.
+- 💻 Visit my [Portfolio](https://sumangal44.github.io) for more details about me.
     <!--End Intro-->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect me
 <p align="left">
@@ -32,18 +32,17 @@ I have a passion for clean code, Java, teaching, PHP, Lifeguarding and Javascrip
 
 My current side project is [Markdown Profile](https://markdownprofile.com)
 
-[LinkedIn 💼](https://linkedin.com/in/dannyverpoort)
+[LinkedIn 💼](https://linkedin.com/in/sumangalkaran)
 
-[Twitter 🐦](https://twitter.com/dannyverp)
+[Twitter 🐦](https://twitter.com/sumangalkaran)
 
 [Website 🌍](https://dannyverpoort.dev/)
 
-[Email 📬](mailto:hallo@dannyverpoort.nl
-
+[Email 📬](mailto:sumangalkaran44@gmail.com
 ## <img src="https://media.giphy.com/media/4tsJBJmfu6TB1O8l5x/giphy.gif" width="30px"> Challenge me
 
 ## <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="45px"> Languages & Frameworks
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a><a href="https://www.typescriptlang.org/"><img alt="Typescript" src="https://img.shields.io/badge/TypeScript-14354C.svg?logo=typescript&logoColor=white&color=blue"></a><a href="https://www.mysql.com/"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a><a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics"><img alt="HTML" src="https://img.shields.io/badge/HTML-14354C.svg?logo=html5&logoColor=black&color=orange"></a><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt="CSS" src="https://img.shields.io/badge/CSS-14354C.svg?logo=css3&logoColor=white&color=blue"></a><a href="https://www.cplusplus.com/"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=blue&color=yellow"></a><a href="https://nodejs.org/en/"><img alt="Nodejs" src="https://img.shields.io/badge/Nodejs-14354C.svg?logo=node.js&logoColor=black&color=darkgreen"></a><a href="https://getbootstrap.com/"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-14354C.svg?logo=bootstrap&logoColor=white&color=mediumpurple"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a> <a href="https://www.mysql.com/"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a><a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics"><img alt="HTML" src="https://img.shields.io/badge/HTML-14354C.svg?logo=html5&logoColor=black&color=orange"></a><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt="CSS" src="https://img.shields.io/badge/CSS-14354C.svg?logo=css3&logoColor=white&color=blue"></a><a href="https://www.cplusplus.com/"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=blue&color=yellow"></a><a href="https://nodejs.org/en/"><img alt="Nodejs" src="https://img.shields.io/badge/Nodejs-14354C.svg?logo=node.js&logoColor=black&color=darkgreen"></a><a href="https://getbootstrap.com/"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-14354C.svg?logo=bootstrap&logoColor=white&color=mediumpurple"></a>
 
 ![GitHub License](https://img.shields.io/github/license/sumangal44/sumangal44)
