@@ -4,7 +4,10 @@
 </div>
 <!--Header Name-->
 <h1 align="center"><b>Hi , I'm  sumangal karan </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
+<p align="center">
+  <br><br>
+  <img src="https://little.kylerconway.com/images/golang-what.gif" width="300">
+</p>
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ sumangal! 
 *Digital Craftsman (Developer / Programmer)*
 <br />
