@@ -11,7 +11,7 @@
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ sumangal! 
 *Digital Craftsman (Developer / Programmer)*
 <br />
-
+<a href="https://app.daily.dev/sumangal23"><img src="https://api.daily.dev/devcards/v2/CfNvwe5k4FJlYATzr8xgT.png?type=default&r=45i" width="356" alt="sumangal karan's Dev Card"/></a>
 <!--Start Intro-->
 <p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, Javascript, HTML , CSS ,Bootstrap and React.js   . </p>
 
