@@ -20,12 +20,16 @@
 - ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/sumangal44).
 - ❤ Contributing to Open Source.
 - 💻 Visit my [Portfolio](https://sumangal44.github.io) for more details about me.
-    <!--End Intro-->
+  <!--End Intro-->
+  <div align = "center">
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=sumangal44)](https://github.com/ryo-ma/github-profile-trophy)
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sumangal44&show_icons=true&count_private=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sumangal44)](https://github.com/ryo-ma/github-profile-trophy)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumangal44)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sumangal44&show_icons=true&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumangal44)](https://github.com/anuraghazra/github-readme-stats)
+
+  </div>
 
 <h3 align="center">
 
