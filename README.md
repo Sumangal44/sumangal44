@@ -21,8 +21,11 @@
 - ❤ Contributing to Open Source.
 - 💻 Visit my [Portfolio](https://sumangal44.github.io) for more details about me.
     <!--End Intro-->
+
   [![trophy](https://github-profile-trophy.vercel.app/?username=sumangal44)](https://github.com/ryo-ma/github-profile-trophy)
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sumangal44&show_icons=true&count_private=true)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumangal44)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="center">
 
@@ -169,7 +172,5 @@
 <a>![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
 </a><a>![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
 </a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumangal44)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub License](https://img.shields.io/github/license/sumangal44/sumangal44)
