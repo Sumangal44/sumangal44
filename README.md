@@ -25,8 +25,10 @@
 <div align = "center">   
        <!-- <div align = "center"> -->
        
-<a>[![trophy](https://github-profile-trophy.vercel.app/?username=sumangal44)](https://github.com/ryo-ma/github-profile-trophy)
-     </a>
+<!--<a>[![trophy](https://github-profile-trophy.vercel.app/?username=sumangal44)](https://github.com/ryo-ma/github-profile-trophy)
+     </a>-->
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=sumangal44)](https://github.com/LordDashMe/github-contribution-stats/)
+  
 <a>![GitHub stats](https://github-readme-stats.vercel.app/api?username=sumangal44&show_icons=true&count_private=true) </a>
 <a >[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumangal44)](https://github.com/anuraghazra/github-readme-stats)
      </a>
