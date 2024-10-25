@@ -31,6 +31,8 @@
 ![sumangal44's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumangal44&show_icons=true&theme=dracula&show=prs_merged,prs_merged_percentage)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sumangal44&repo=reference)](https://github.com/anuraghazra/github-readme-stats)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sumangal44&repo=project-idx-theme)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumangal44)](https://github.com/anuraghazra/github-readme-stats)
 
