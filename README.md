@@ -25,12 +25,18 @@
 <div align = "center" ,display="flex">  
 
 ![GitHub followers](https://img.shields.io/github/followers/sumangal44)
-       
+
+[![](https://visitcount.itsvg.in/api?id=sumangal44&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)   
+
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=sumangal44)](https://github.com/LordDashMe/github-contribution-stats/)
   
 ![sumangal44's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumangal44&show_icons=true&theme=dracula&show=prs_merged,prs_merged_percentage)
 
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sumangal44&repo=ReflexUI)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sumangal44&repo=reference)](https://github.com/anuraghazra/github-readme-stats)
+
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sumangal44&repo=project-idx-theme)](https://github.com/anuraghazra/github-readme-stats)
  
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sumangal44&repo=C-Projects-Collection)](https://github.com/anuraghazra/github-readme-stats)
@@ -41,7 +47,7 @@
 
 ### 💬 Social
 
-<a >![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) </a><a>![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) </a><a href="https://www.linkedin.com/in/sumangal-karan-468076267">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a><a href="http://www.youtube.com/@DesicodeDiaries">![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) </a><a>![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white) </a> <a href ="https://www.facebook.com/profile.php?id=100080837876148">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white) </a><a href="https://www.instagram.com/sumangal_karan">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+<a href="https://t.me/sumangalkaran" >![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) </a><a href="https://mail.google.com/mail/?view=cm&fs=1&to=sumangalkaran44@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) </a><a href="https://www.linkedin.com/in/sumangal-karan-468076267">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a><a href="http://www.youtube.com/@DesicodeDiaries">![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) </a><a>![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white) </a> <a href ="https://www.facebook.com/profile.php?id=100080837876148">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white) </a><a href="https://www.instagram.com/sumangal_karan">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 
 ### 📋 Languages
 
