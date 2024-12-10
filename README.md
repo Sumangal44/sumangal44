@@ -28,7 +28,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=sumangal44&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)   
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=sumangal44)](https://github.com/LordDashMe/github-contribution-stats/)
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=sumangal44&theme=dark)](https://github.com/LordDashMe/github-contribution-stats/)
 ![sumangal44's Stats](https://github-readme-stats.vercel.app/api?username=sumangal44&theme=dark&show_icons=true&hide_border=false&count_private=true&show=prs_merged,prs_merged_percentage)  
 
 
