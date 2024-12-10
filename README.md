@@ -42,8 +42,8 @@
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sumangal44&repo=C-Projects-Collection)](https://github.com/anuraghazra/github-readme-stats)
 
 
+![sumangal44's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumangal44&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumangal44)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 💬 Social
 
