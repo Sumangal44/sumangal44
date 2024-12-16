@@ -30,7 +30,7 @@
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=sumangal44&theme=dark)](https://github.com/LordDashMe/github-contribution-stats/)
 ![sumangal44's Stats](https://github-readme-stats.vercel.app/api?username=sumangal44&theme=dark&show_icons=true&hide_border=false&count_private=true&show=prs_merged,prs_merged_percentage)  
-![sumangal44's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sumangal44&theme=dracula&hide_border=false)
+
 
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sumangal44&repo=ReflexUI)](https://github.com/anuraghazra/github-readme-stats)
 
