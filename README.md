@@ -29,16 +29,14 @@
 [![](https://visitcount.itsvg.in/api?id=sumangal44&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)   
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=sumangal44&theme=dark)](https://github.com/LordDashMe/github-contribution-stats/)
-![sumangal44's Stats](https://github-readme-stats.vercel.app/api?username=sumangal44&theme=dark&show_icons=true&hide_border=false&count_private=true&show=prs_merged,prs_merged_percentage)  
+![sumangal44's Stats](https://github-readme-stats.vercel.app/api?username=sumangal44&theme=dracula&show_icons=true&hide_border=false&count_private=true)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sumangal44&repo=reference)](https://github.com/anuraghazra/github-readme-stats)
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sumangal44&repo=C-Projects-Collection)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sumangal44&repo=C-Projects-Collection)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sumangal44&repo=conwelcome)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sumangal44&repo=conclean)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sumangal44&repo=charmmono-theme)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sumangal44&repo=cheatsheets)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sumangal44&repo=Sumangal.dev)](https://github.com/anuraghazra/github-readme-stats)
-
 ![sumangal44's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumangal44&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
 
@@ -113,7 +111,6 @@
 <a href="https://hashnode.com/@sumangal364 " >![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)</a>
 <a href ="">![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white) </a><a href ="">![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)</a>
 ![GitHub License](https://img.shields.io/github/license/sumangal44/sumangal44)
-![image](https://github.com/user-attachments/assets/de8c0647-2057-4124-81dc-398fc933a43c)
 
 </div>
 
