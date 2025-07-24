@@ -25,23 +25,11 @@
 
 <div align = "center" ,display="flex">  
 
-[![Repos Badge](https://badges.pufler.dev/repos/sumangal44)](https://badges.pufler.dev)
-
-[![Gists Badge](https://badges.pufler.dev/gists/sumangal44)](https://badges.pufler.dev)
-
-[![Years Badge](https://badges.pufler.dev/years/sumangal44)](https://badges.pufler.dev)
-
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=sumangal44&theme=onedark&column=-1" />
 </p
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sumangal44&theme=github-dark-dimmed&custom_title=sumangal44%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sumangal44/count.svg" />
-</p>
 
 ![GitHub followers](https://img.shields.io/github/followers/sumangal44)
 
